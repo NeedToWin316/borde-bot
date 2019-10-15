@@ -1,1 +1,1 @@
-worker: ned bot3.js
+worker: node bot3.js
