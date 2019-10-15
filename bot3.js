@@ -67,4 +67,4 @@ if (message.content.startsWith("-frases")){
   
   }
 });
-client.login(config.token);   
+client.login("NjMzMzM1OTI3NDk3OTQ5MjM3.XaXuSA.54bjjChtbiGaeh7BAWVlWpiln9U");   
